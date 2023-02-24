@@ -1,5 +1,6 @@
 <?php
 
+//add
 class telegraphText {
     public $title;
     public $text;
